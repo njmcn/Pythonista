@@ -1,6 +1,6 @@
 #import 'pythonista'
 
-# see https://medium.com/swiftly-swift/how-to-build-a-compass-app-in-swift-2b6647
+# see https://medium.com/swiftly-swift/how-to-build-a-compass-app-in-swift-2b6647ae25e8
 
 import motion
 import math
